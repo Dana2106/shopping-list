@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Shopping Item)">304f02212fc31010eaa65d372799b6dd</button>
+        <item_parameter display_value="Shopping Item store">bc4f02212fc31010eaa65d372799b6da</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>daniela.gudima@endava.com</sys_created_by>
+        <sys_created_on>2020-09-04 12:34:47</sys_created_on>
+        <sys_id>384f02212fc31010eaa65d372799b6e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bc4f02212fc31010eaa65d372799b6da</sys_name>
+        <sys_package display_value="Shopping List" source="x_526897_shopping">fe1d4ae12f831010eaa65d372799b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">fe1d4ae12f831010eaa65d372799b67f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_384f02212fc31010eaa65d372799b6e5</sys_update_name>
+        <sys_updated_by>daniela.gudima@endava.com</sys_updated_by>
+        <sys_updated_on>2020-09-04 12:34:47</sys_updated_on>
+        <ui_parameter display_value="Store">b44f02212fc31010eaa65d372799b6e1</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
